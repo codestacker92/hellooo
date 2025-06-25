@@ -1,0 +1,7 @@
+*{
+  height: 1;
+  hyphens: manual;
+  font: 1em sans-serif;
+  font-variant-caps: normal;
+  display: flex;
+}
